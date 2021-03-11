@@ -9,6 +9,7 @@ Hi, I’m Anshuman!
 
 🌍 Find me on the web:
 
+- Portfolio: [i-anshuman.github.io/](https://i-anshuman.github.io/)
 - Tweets:   [@_AnshumanGupta](https://twitter.com/_AnshumanGupta)
 - LinkedIn: [iAnshumanGupta](https://www.linkedin.com/in/iAnshumanGupta/)
 
@@ -27,6 +28,5 @@ Some quick info about me:
 TODO:
 - Add more info and profile pic on right hand side.
 - Convert it to a professional resume/ Cover letter.
-- Portfolio: [i-anshuman.github.io/](https://i-anshuman.github.io/)
 - Blog: [i-anshuman.github.io/blog](https://i-anshuman.github.io/blog)
 -->
